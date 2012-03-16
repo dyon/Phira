@@ -1,4 +1,10 @@
-Phira
---
+Phira: PHP SOAP Wrapper for JIRA
+-------------------------
 
-PHP SOAP Wrapper for JIRA
+Currently a work-in-progress, feel free to use and modify.
+
+
+Currently based and inspired by:
+
+- JIRAClient from http://blog.xole.net/
+- RayCache from http://raynux.com/blog/2010/08/08/raycache-an-easy-multiple-configurable-php-caching-class/
